@@ -1,1 +1,2 @@
 Autor: Dominik Czechowicz
+Kurs: DevOps
